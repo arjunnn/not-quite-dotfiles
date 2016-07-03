@@ -3,6 +3,9 @@
 ## Apps to install:
 
 - [ ] [Atom](https://atom.io)
+	-	[Pigments](https://atom.io/packages/pigments)
+	- [Power Mode](https://atom.io/packages/pigments)
+	- [Minimap](https://atom.io/packages/minimap)
 - [ ] [KeePass](http://keepass.info/download.html)
 	- Passwords live in OneDrive, requires 2FA.
 - [ ] [F.lux](https://justgetflux.com/)
