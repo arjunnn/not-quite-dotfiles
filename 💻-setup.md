@@ -31,6 +31,7 @@ git config --global user.email my-email
 - [ ] [pngquant](https://pngquant.org/)
 - [ ] [LaTeX](https://www.latex-project.org/get/)
 - [ ] [Pandoc](http://pandoc.org/)
+- [ ] [ImageMagik](https://www.imagemagick.org/script/index.php)
 
 ## Fonts
 
