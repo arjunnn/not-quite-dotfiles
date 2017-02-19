@@ -38,6 +38,11 @@ git config --global user.email my-email
 - [ ] [Fira Code](https://github.com/tonsky/FiraCode)
 - [ ] [Hack](http://sourcefoundry.org/hack/)
 
+## Atom packages
+
+- [ ] [cobalt-2](https://atom.io/themes/cobalt2-syntax)
+- [ ] [pigments](https://atom.io/packages/pigments)
+
 ***
 
 You're done! :D
