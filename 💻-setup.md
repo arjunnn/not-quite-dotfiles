@@ -26,6 +26,12 @@
 - [ ] [Fira Code](https://github.com/tonsky/FiraCode)
 - [ ] [Hack](http://sourcefoundry.org/hack/)
 
+## VSCode extensions 
+- [ ] Bracket pair colourizer
+- [ ] Git Blame
+- [ ] Prettier
+- [ ] Python 
+- [ ] Night Owl
 
 ***
 
